@@ -13,7 +13,10 @@
       "esnext",
       "dom",
       "dom.iterable",
-      "scripthost"
+      "scripthost",
     ]
+  },
+  "vueCompilerOptions": {
+    "experimentalDisableTemplateSupport": true
   }
 }
